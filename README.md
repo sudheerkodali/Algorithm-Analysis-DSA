@@ -3,8 +3,9 @@ Algorithm analysis and its types , with java scripting
 # Dino - runner
 
 ## Description
+<p> Algorithm Analysis and its types, which relates to basic understanding of Algorithms and its TIME complexitys and space complexitys </p>
 
-<p> 3D endless runner is a full 3D copy of the famous google chrome 2D dinosaur browser game. Game is coded with the help of THREE.js framework and models are created with Magica Voxel art editor</p>
+
 
 ## Tech-stack
 
