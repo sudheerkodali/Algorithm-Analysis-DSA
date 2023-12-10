@@ -3,7 +3,7 @@ Algorithm analysis and its types , with java scripting
 # 
 
 ## Description
-<p> Algorithm Analysis and its types, which relates to basic understanding of Algorithms and its TIME complexity and space complexity and many more concepts </p>
+<p> Algorithm Analysis and its types, which relates to basic understanding of Algorithms and its 'TIME' complexity and 'SPACE' complexity and many more concepts </p>
 
 
 
