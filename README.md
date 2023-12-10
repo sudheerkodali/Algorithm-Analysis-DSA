@@ -3,7 +3,7 @@ Algorithm analysis and its types , with java scripting
 # Dino - runner
 
 ## Description
-<p> Algorithm Analysis and its types, which relates to basic understanding of Algorithms and its TIME complexitys and space complexitys </p>
+<p> Algorithm Analysis and its types, which relates to basic understanding of Algorithms and its TIME complexity and space complexity and many more concepts </p>
 
 
 
@@ -16,8 +16,8 @@ Algorithm analysis and its types , with java scripting
 
 ## Screenshot:
 
-![Image of TREX GAME](./trex.png)
+<!--![Image of TREX GAME](./trex.png)-->
 
 ## Author:
 
-Developer Sudheer
+Developer Sudheer chowdari kodali
