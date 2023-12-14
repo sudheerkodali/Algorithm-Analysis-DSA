@@ -15,7 +15,9 @@ Algorithm analysis and its types , with java scripting
 
 | 1   | [What is Algorithum Analysis](#)   
 | 2   | [What is Relative Analysis](#)  
-| 3   | [Computing time complexity| Simple Example](#)
+| 3   | [Some terms Related to algotithum Analysis](#)
+| 4   | [Computing time complexity| Simple Example1](#)
+
                 <li> Computing time complexity| Simple Example1 </li>
                 <li> Common Big-O Notation</li>
                 <li> Checking if Big-O Notation is Accetable </li>  
