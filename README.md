@@ -16,7 +16,7 @@ Algorithm analysis and its types , with java scripting
 | 1   | [What is Algorithum Analysis](#)   
 | 2   | [What is Relative Analysis](#)  
 | 3   | [Some terms Related to algorithum Analysis](#)
-| 4   | [Computing time complexity Simple Example1](#)
+| 4   | [Computing time complexity| Simple Example1](#)
 
                
 <ol>
