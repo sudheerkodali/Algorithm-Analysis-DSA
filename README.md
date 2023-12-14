@@ -13,7 +13,7 @@ Algorithm analysis and its types , with java scripting
 
 <h4>  Algotithm analysis </h4>
 
-  | 1   |[](#what-are-the-possible-ways-to-create-objects-in-Filedglass)|   
+
 <ol>
     
                 <li> what is Algorithm Analysis </li>
