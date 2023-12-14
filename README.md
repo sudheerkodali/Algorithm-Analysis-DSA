@@ -12,8 +12,10 @@ Algorithm analysis and its types , with java scripting
 <p> Project is done entirely with Javascript </p>
 
 <h4>  Algotithm analysis </h4>
+
+  | 1   |(#what-are-the-possible-ways-to-create-objects-in-Filedglass)|    
 <ol>
-  | 1   |(#what-are-the-possible-ways-to-create-objects-in-Filedglass)    
+    
                 <li> what is Algorithm Analysis </li>
                 <li> what is Relative Analysis</li>
                 <li> Some term relates to algorithm analysis </li>
