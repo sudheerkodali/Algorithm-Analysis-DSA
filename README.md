@@ -13,6 +13,10 @@ Algorithm analysis and its types , with java scripting
 
 <h4>  Algotithm analysis </h4>
 
+| 1   | [What is Algorithum Analysis](#what-is-algorithum-analysis)   
+| 2   | [What is Relative Analysis](#what-is-relative-analysis)  
+
+
 <ol>
                 <li> what is Algorithm Analysis </li>
                 <li> what is Relative Analysis</li>
