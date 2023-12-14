@@ -13,8 +13,8 @@ Algorithm analysis and its types , with java scripting
 
 <h4>  Algotithm analysis </h4>
 
-| 1   | [What are the possible ways to create fieldglass](#what-are-the-possible-ways-to-create-objects-in-Filedglass)   
-| 2   | [What are the possible ways to create fieldglass]()   
+| 1   | [What is Algorithum Analysis](#what-are-the-possible-ways-to-create-objects-in-Filedglass)   
+| 2   | [What is Relative Analysis](#)   
 <ol>
                 <li> what is Algorithm Analysis </li>
                 <li> what is Relative Analysis</li>
