@@ -15,7 +15,6 @@ Algorithm analysis and its types , with java scripting
 
 
 <ol>
-    
                 <li> what is Algorithm Analysis </li>
                 <li> what is Relative Analysis</li>
                 <li> Some term relates to algorithm analysis </li>
