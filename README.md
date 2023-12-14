@@ -12,6 +12,9 @@ Algorithm analysis and its types , with java scripting
 <p> Project is done entirely with Javascript </p>
 
 <h4>  Algotithm analysis </h4>
+| 1   | [What is Algorithum Analysis](#)   
+| 2   | [What is Relative Analysis](#)   
+<ol>
 
 <ol>
                 <li> what is Algorithm Analysis </li>
