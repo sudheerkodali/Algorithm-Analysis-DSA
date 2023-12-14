@@ -18,30 +18,7 @@ Algorithm analysis and its types , with java scripting
 | 3   | [Some terms Related to algorithum Analysis](#)
 | 4   | [Computing time complexity Simple Example1](#)
 
-                <li> Computing time complexity| Simple Example1 </li>
-                <li> Common Big-O Notation</li>
-                <li> Checking if Big-O Notation is Accetable </li>  
-                <li> Time complexity for Loop | Example 1 </li>
-                <li> Time complexity for Loop | Example 2 </li>
-                <li> Time complexity for Loop | Example 3 </li>
-                <li> Time complexity for Loop | Example 4 </li>
-                <li> Myth about TIME Complexity </li>
-                <li> What is LOG what makes it so Powerful </li>
-                <li> Useful Identities related to logs </li>
-                <li> Logarithm loop | Example1 </li>
-                <li> Logarithm loop | Example2 </li>
-                <li> Logarithm loop | Example3 </li>
-                <li> Nexted Independent Loop | Example 1 </li>
-                <li> Nexted Independent Loop | Example 2 </li>
-                <li> Nexted Dependent Loop | Example 1 </li>
-                <li> calculating space complexity </li>
-                <li> calculating time complexity of recrusive cases</li>
-                <li> space complexity calculation simple case</li>
-                <li> Recursive Time Complexity | Example 2 </li>
-                <li> Recursive Space Complexity | Example 2 </li>
-                <li> Time complexity Live Demonistration </li>
-
-
+               
 <ol>
                 <li> what is Algorithm Analysis </li>
                 <li> what is Relative Analysis</li>
