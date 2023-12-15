@@ -30,7 +30,7 @@ Algorithm analysis and its types , with java scripting
 
 | 9  | [Time complexity for loop | Example 3 ](#)
 
-| 10 | [Time complexity for loop | Example 4 ](#)
+| 10  | [Time complexity for loop | Example 4 ](#)
 
 | 11 | [Myth about TIME Complexity](#)
 
