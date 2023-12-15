@@ -15,9 +15,11 @@ Algorithm analysis and its types , with java scripting
 
 
 
-              | 1 |[what-is-Algorithm-Analysis](# Algorithm-analysis-and-its-types)
+              | 1  | [what-is-Algorithm-Analysis](# Algorithm-analysis-and-its-types)
               
-              | 2 |[what-is-Relative-Analysis](# Relativr-analysis)
+              | 2   | [what-is-Relative-Analysis](# Relativr-analysis)
+
+              | 1   | [What are the possible ways to create fieldglass](#what-are-the-possible-ways-to-create-objects-in-Filedglass)   
               
                 <li> Some term relates to algorithm analysis </li>
                 <li> Computing time complexity| Simple Example1 </li>
