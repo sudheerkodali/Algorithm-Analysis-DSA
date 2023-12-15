@@ -15,8 +15,10 @@ Algorithm analysis and its types , with java scripting
 
 
 
-              | 1 | [what-is-Algorithm-Analysis](# Algorithm-analysis-and-its-types)
-              | 2 | [what-is-Relative-Analysis](# Relativr-analysis)
+              | 1 |[what-is-Algorithm-Analysis](# Algorithm-analysis-and-its-types)
+              
+              | 2 |[what-is-Relative-Analysis](# Relativr-analysis)
+              
                 <li> Some term relates to algorithm analysis </li>
                 <li> Computing time complexity| Simple Example1 </li>
                 <li> Common Big-O Notation</li>
