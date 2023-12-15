@@ -16,11 +16,11 @@ Algorithm analysis and its types , with java scripting
 
 | 2  | [what is Relative Analysis](#Relative-analysis)
 
-| 3  |[Some term relates to algorithm analysis](#)
+| 3  | [Some term relates to algorithm analysis](#)
 
-| 4  |[Computing time complexity| simple analysis](#)
+| 4  | [Computing time complexity| simple analysis](#)
 
-| 5  |[Common Big-O Notation](#)
+| 5  | [Common Big-O Notation](#)
            
 <ol>
                 <li> what is Algorithm Analysis </li>
