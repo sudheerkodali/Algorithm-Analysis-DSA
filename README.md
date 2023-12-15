@@ -21,6 +21,17 @@ Algorithm analysis and its types , with java scripting
 | 4  | [Computing time complexity| simple analysis](#)
 
 | 5  | [Common Big-O Notation](#)
+
+| 6  | [Checking if Big-O Notation is Accetable](#)
+
+| 7  | [Time complexity for loop | Example 1 ](#)
+
+| 8  | [Time complexity for loop | Example 2 ](#)
+
+| 9  | [Time complexity for loop | Example 3 ](#)
+
+| 10 | [Time complexity for loop | Example 4 ](#)
+           
            
 <ol>
                 <li> what is Algorithm Analysis </li>
