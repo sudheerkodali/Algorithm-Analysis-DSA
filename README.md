@@ -13,7 +13,7 @@ Algorithm analysis and its types , with java scripting
 
 <h4>  Algotithm analysis </h4>
 
-
+|1|[ Algorithum Analysis ](# what is algorithm analysis)
                
 <ol>
                 <li> what is Algorithm Analysis </li>
