@@ -18,7 +18,9 @@ Algorithm analysis and its types , with java scripting
 
 | 3  |[Some term relates to algorithm analysis](#)
 
+| 4  |[Computing time complexity| simple analysis](#)
 
+| 5  |[Common Big-O Notation](#)
            
 <ol>
                 <li> what is Algorithm Analysis </li>
