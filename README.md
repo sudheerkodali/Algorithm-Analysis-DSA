@@ -44,7 +44,13 @@ Algorithm analysis and its types , with java scripting
 
 | 16 | [Logarithm loop | Example 3](#)
 
-| 17 | [Nested Inddependent Loop | Example 1](#)
+| 17 | [Nested Independent Loop | Example 1](#)
+
+| 18 | [Nested Independent Loop | Example 2](#)
+
+| 19 | [Nested Dependent Loop | Example 1](#)
+
+
 
 <ol>
                 <li> what is Algorithm Analysis </li>
