@@ -40,9 +40,11 @@ Algorithm analysis and its types , with java scripting
 
 | 14 | [Logarithm loop | Example 1](#)
 
-| 15 | [Lorgarithm loop | Example 2](#)
+| 15 | [Logarithm loop | Example 2](#)
 
-| 16 | [Lorgarithm loop | Example 3](#)
+| 16 | [Logarithm loop | Example 3](#)
+
+| 12 | [Logarithm loop | Example 4](#)
 
 <ol>
                 <li> what is Algorithm Analysis </li>
