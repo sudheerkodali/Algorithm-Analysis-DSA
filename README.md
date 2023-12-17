@@ -30,13 +30,20 @@ Algorithm analysis and its types , with java scripting
 
 | 9  | [Time complexity for loop | Example 3 ](#)
 
-| 10  | [Time complexity for loop | Example 4 ](#)
+| 10 | [Time complexity for loop | Example 4 ](#)
 
 | 11 | [Myth about TIME Complexity](#)
 
 | 12 | [What is LOG what makes it so poweful](#)
            
-           
+| 13 | [Useful identies related to Logs](#)        
+
+| 14 | [Logarithm loop | Example 1](#)
+
+| 15 | [Lorgarithm loop | Example 2](#)
+
+| 16 | [Lorgarithm loop | Example 3](#)
+
 <ol>
                 <li> what is Algorithm Analysis </li>
                 <li> what is Relative Analysis</li>
