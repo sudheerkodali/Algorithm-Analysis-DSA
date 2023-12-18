@@ -50,17 +50,21 @@ Algorithm analysis and its types , with java scripting
 
 | 19 | [Nested Dependent Loop | Example 1](#)
 
-| 19 | [Calculating Time Complexity](#)
+| 20 | [Calculating Space Complexity](#)
 
-| 20 | [Calaculating Space Complexity](#)
+| 21 | [Calaculating Time Complexity of Recursive Case](#)
 
-| 21 | [Calculating Time Complexity of Recursive Cases](#)
+| 22 | [Space Complexity Calculation with Simple case](#)
 
-| 22 | [Space Complexity Calculation with Simple Cases](#)
+| 23 | [Recursive Time Complexity| Example 2](#)
 
-| 23 |
+| 24 | [Recursice Space Complexity | Example 1](#)
 
-<ol>
+| 25 | [Time Complexity Live Demonastration](#)
+
+
+
+<!--<ol>
                 <li> what is Algorithm Analysis </li>
                 <li> what is Relative Analysis</li>
                 <li> Some term relates to algorithm analysis </li>
@@ -86,7 +90,7 @@ Algorithm analysis and its types , with java scripting
                 <li> Recursive Time Complexity | Example 2 </li>
                 <li> Recursive Space Complexity | Example 2 </li>
                 <li> Time complexity Live Demonistration </li>
-</ol>
+</ol>-->
 
 
 ## Screenshot:
