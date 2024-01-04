@@ -17,7 +17,7 @@ Algorithm analysis and its types , with java scripting
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     | ** Algorithm analysis **
 |
-| 1  | [what are algorithm analysis?](#Algorithm-analysis)
+| 1  | [what are algorithm analysis](#Algorithm-analysis)
 
 | 2  | [what is Relative Analysis](#Relative-analysis)
 
