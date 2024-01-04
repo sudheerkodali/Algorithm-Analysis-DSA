@@ -14,9 +14,9 @@ Algorithm analysis and its types , with java scripting
 
 | No. | Questions                                                                                                                                                              |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     | **Core algorithm**                                                                                                                                                                                                                   
-|
-<!--<h4>  Algorithm analysis </h4>-->
+|     | **Core React**                                                                                                                                                         |
+
+                                                                                                            
 
 | 1  | [what are algorithm analysis](#Algorithm-analysis)
 
