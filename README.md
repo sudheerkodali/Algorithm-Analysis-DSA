@@ -10,7 +10,13 @@ Algorithm analysis and its types , with java scripting
 ## Tech-stack
 <p> Project is done entirely with Javascript </p>
 
-<h4>  Algotithm analysis </h4>
+### Algorithm analysis types
+
+| No. | Questions                                                                                                                                                                                                                        |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     | **Core algorithm**                                                                                                                                                                                                                   |
+
+<h4>  Algorithm analysis </h4>
 
 | 1  | [what are algorithm analysis](#Algorithm-analysis)
 
@@ -100,3 +106,5 @@ Algorithm analysis and its types , with java scripting
 ## Author:
 
 Developer Sudheer chowdari kodali
+
+  **[⬆ Back to Top](#algorithm-analysis-types)**
