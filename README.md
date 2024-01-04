@@ -7,10 +7,10 @@ Algorithm analysis and its types , with java scripting
 
 
 
-## Tech-stack
-<!--<p> Project is done entirely with Javascript </p>-->
+<!--## Tech-stack
+<p> Project is done entirely with Javascript </p>-->
 
-<!--### Algorithm analysis types-->
+### Algorithm analysis types
 
 |No. | Questions
 |                                                                                              |              
