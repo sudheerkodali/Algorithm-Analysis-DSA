@@ -10,7 +10,7 @@ Algorithm analysis and its types , with java scripting
 <!--## Tech-stack
 <p> Project is done entirely with Javascript </p>-->
 
-###Algorithm analysis types
+### Algorithm analysis types
 
 |No.  | Questions
 |                                                                                              |              
@@ -18,53 +18,53 @@ Algorithm analysis and its types , with java scripting
 |     | ** Algorithm analysis **
 |
 | 1  | [what are algorithm analysis](#Algorithm-analysis)
-
+|
 | 2  | [what is Relative Analysis](#Relative-analysis)
-
+|
 | 3  | [Some term relates to algorithm analysis](#)
-
+|
 | 4  | [Computing time complexity| simple analysis](#)
-
+|
 | 5  | [Common Big-O Notation](#)
-
+|
 | 6  | [Checking if Big-O Notation is Accetable](#)
-
+|
 | 7  | [Time complexity for loop | Example 1 ](#)
-
+|
 | 8  | [Time complexity for loop | Example 2 ](#)
-
+|
 | 9  | [Time complexity for loop | Example 3 ](#)
-
+|
 | 10 | [Time complexity for loop | Example 4 ](#)
-
+|
 | 11 | [Myth about TIME Complexity](#)
-
+|
 | 12 | [What is LOG what makes it so poweful](#)
-           
+|          
 | 13 | [Useful identies related to Logs](#)        
-
+|
 | 14 | [Logarithm loop | Example 1](#)
-
+|
 | 15 | [Logarithm loop | Example 2](#)
-
+|
 | 16 | [Logarithm loop | Example 3](#)
-
+|
 | 17 | [Nested Independent Loop | Example 1](#)
-
+|
 | 18 | [Nested Independent Loop | Example 2](#)
-
+|
 | 19 | [Nested Dependent Loop | Example 1](#)
-
+|
 | 20 | [Calculating Space Complexity](#)
-
+|
 | 21 | [Calaculating Time Complexity of Recursive Case](#)
-
+|
 | 22 | [Space Complexity Calculation with Simple case](#)
-
+|
 | 23 | [Recursive Time Complexity| Example 2](#)
-
+|
 | 24 | [Recursice Space Complexity | Example 1](#)
-
+|
 | 25 | [Time Complexity Live Demonastration](#)
 |
 
