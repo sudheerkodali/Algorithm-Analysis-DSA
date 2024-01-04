@@ -12,11 +12,11 @@ Algorithm analysis and its types , with java scripting
 
 ### Algorithm analysis types
 
-| No. | Questions                                                                                                                                                                                                                        |
+| No. | Questions                                                                                                                                                              |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     | **Core algorithm**                                                                                                                                                                                                                   |
+|     | **Core algorithm**                                                                                                                                                                                                                   
 |
-<h4>  Algorithm analysis </h4>
+<!--<h4>  Algorithm analysis </h4>-->
 
 | 1  | [what are algorithm analysis](#Algorithm-analysis)
 
@@ -67,7 +67,6 @@ Algorithm analysis and its types , with java scripting
 | 24 | [Recursice Space Complexity | Example 1](#)
 
 | 25 | [Time Complexity Live Demonastration](#)
-
 |
 
 
