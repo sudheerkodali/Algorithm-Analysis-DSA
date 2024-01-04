@@ -15,7 +15,7 @@ Algorithm analysis and its types , with java scripting
 |No. | Questions
 |                                                                                              |              
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     | **Algorithm analysis**
+|     | ** Algorithm analysis **
 |
 | 1  | [what are algorithm analysis](#Algorithm-analysis)
 
