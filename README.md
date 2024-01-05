@@ -12,11 +12,9 @@ Algorithm analysis and its types , with java scripting
 
 ### Algorithm analysis types
 
-| No. | Questions                                                                                                                                                             
-|
+| No. | Questions                                                                                                                                                  |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     | **Core ALGORITHM**       
-|
+|     | ** Core React **                                                                                                                                             |
 | 1   | [what are algorithm analysis?](#what-are-Algorithm-analysis)
 
 | 2   | [what is Relative Analysis?](#what-is-Relative-analysis)
