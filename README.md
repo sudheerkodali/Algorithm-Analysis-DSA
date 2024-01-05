@@ -14,21 +14,19 @@ Algorithm analysis and its types , with java scripting
 
 | No. | Questions                                                                                                                                                  |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     | ** Basic Algorithm **                                                                                                                                      |
-| 1   | [what are algorithm analysis?](#what-are-Algorithm-analysis)
+|     | ** Basic Algorithm **  
 |
+| 1   |  [what are algorithm analysis?](#what-are-Algorithm-analysis)
 
 | 2   | [what is Relative Analysis?](#what-is-Relative-analysis)
-|
 
 | 3   | [Some term relates to algorithm analysis](#Some-term-relate-to-algorithm-analysis)
-|
 
 | 4   | [Computing time complexity| simple analysis](#Computing-time-complexity|simple-analysis)
-|
+
 
 | 5   | [Common Big-O Notation](#Common-Big-O-Notation)
-|
+
 
 | 6   | [Checking if Big-O Notation is Accetable](#Checking-if-Big-O-Notation-is-Accetable)
 
@@ -123,7 +121,7 @@ Developer Sudheer chowdari kodali
 | No. | Questions                                                                                                                                                  |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     | **Core React**                                                                                                                                             |
-| 1   | [What is React?](#what-is-react)                                                                                                                           |                                                                      
+| 1   | [what are algorithm analysis?](#)                                                                                                                          |                                                                      
 | 2   | [What are the major features of React?](#what-are-the-major-features-of-react)                                                                             |                                                                      
 | 3   | [What is JSX?](#what-is-jsx)                                                                                                                               |                                                                    
 | 4   | [What is the difference between Element and Component?](#what-is-the-difference-between-element-and-component)                                             |                                                                      
