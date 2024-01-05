@@ -12,7 +12,7 @@ Algorithm analysis and its types , with java scripting
 
 ### Algorithm analysis types
 
-### Algorithm analysis Contents
+### Algorithm Contents
 
 | No. | Questions                                                                                                                                                              |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,18 +20,18 @@ Algorithm analysis and its types , with java scripting
 | 1   |  [what are algorithm analysis?](#what-are-Algorithm-analysis)                                                                                                          |
 | 2   | [what is Relative Analysis?](#what-is-Relative-analysis)                                                                                                               |
 | 3   | [Some term relates to algorithm analysis](#Some-term-relate-to-algorithm-analysis)                                                                                     |
-| 4   | [Computing time complexity:simple analysis](#Computing-time-complexity-|-simple-analysis)                                                                              |                                        
+| 4   | [Computing time complexity/simple analysis](#Computing-time-complexity-|-simple-analysis)                                                                              |                                        
 | 5   | [Common Big-O Notation](#Common-Big-O-Notation)                                                                                                                        |
 | 6   | [Checking if Big-O Notation is Accetable](#Checking-if-Big-O-Notation-is-Accetable)                                                                                    |
-| 7   | [Time complexity for loop || Example 1 ](#Time-complexity-for-loop-|-Example-1 )                                                                                        |  
-| 8   | [Time complexity for loop | Example 2 ](#Time-complexity-for-loop-|-Example-2 )                                                                                        |
-| 9   | [Time complexity for loop | Example 3 ](#Time-complexity-for-loop-|-Example-3 )                                                                                        |
-| 10  | [Time complexity for loop | Example 4 ](#Time-complexity-for-loop-|-Example-4 )                                                                                        |
+| 7   | [Time complexity for loop / Example 1 ](#Time-complexity-for-loop-|-Example-1 )                                                                                        |  
+| 8   | [Time complexity for loop / Example 2 ](#Time-complexity-for-loop-|-Example-2 )                                                                                        |
+| 9   | [Time complexity for loop / Example 3 ](#Time-complexity-for-loop-|-Example-3 )                                                                                        |
+| 10  | [Time complexity for loop / Example 4 ](#Time-complexity-for-loop-|-Example-4 )                                                                                        |
 | 11  | [Myth about TIME Complexity](#Myth-about-TIME-Complexity)                                                                                                              |          
 | 12  | [What is LOG what makes it so poweful](#[What-is-LOG-what-makes-it-so-poweful)                                                                                         |
 | 13  | [Useful identies related to Logs](#Useful-identies-related-to-Logs)                                                                                                    |       
-| 14  | [Logarithm loop | Example 1](#Logarithm-loop-|-Example-1)                                                                                                              |
-| 15  | [Logarithm loop | Example 2](#)                                                                                                                                        |
+| 14  | [Logarithm loop / Example 1](#Logarithm-loop-|-Example-1)                                                                                                              |
+| 15  | [Logarithm loop / Example 2](#)                                                                                                                                        |
 
 | 16  | [Logarithm loop | Example 3](#)
 
