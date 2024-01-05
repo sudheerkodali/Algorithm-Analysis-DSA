@@ -16,11 +16,10 @@ Algorithm analysis and its types , with java scripting
 | No. | Questions                                                                                                                                                              
 |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     | ** Core ALGORITHM **       
+|     | **Core ALGORITHM**       
 |
-
 | 1   | [what are algorithm analysis?](#what-are-Algorithm-analysis)
-|
+
 | 2   | [what is Relative Analysis?](#what-is-Relative-analysis)
 
 | 3   | [Some term relates to algorithm analysis](#Some-term-relate-to-algorithm-analysis)
