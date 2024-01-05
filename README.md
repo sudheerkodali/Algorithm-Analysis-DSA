@@ -116,11 +116,11 @@ Developer Sudheer chowdari kodali
 
 
 
-  ### Table of Contents
+  ### Algorithm analysis types
 
 | No. | Questions                                                                                                                                                  |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     | **Core React**                                                                                                                                             |
+|     | **Basic Algorithm**                                                                                                                                        |
 | 1   | [what are algorithm analysis?](#)                                                                                                                          |                                                                      
 | 2   | [What are the major features of React?](#what-are-the-major-features-of-react)                                                                             |                                                                      
 | 3   | [What is JSX?](#what-is-jsx)                                                                                                                               |                                                                    
