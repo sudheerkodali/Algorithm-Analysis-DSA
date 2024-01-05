@@ -30,7 +30,7 @@ Algorithm analysis and its types , with java scripting
 | 11  | [Myth about TIME Complexity](#Myth-about-TIME-Complexity)                                                                                                              |          
 | 12  | [What is LOG what makes it so poweful](#[What-is-LOG-what-makes-it-so-poweful)                                                                                         |
 | 13  | [Useful identies related to Logs](#Useful-identies-related-to-Logs)                                                                                                    |       
-| 14  | [Logarithm loop / Example 1](#Logarithm-loop-|-Example-1)                                                                                                              |
+| 14  | [Logarithm loop / Example 1](#)                                                                                                                                        |
 | 15  | [Logarithm loop / Example 2](#)                                                                                                                                        |
 
 | 16  | [Logarithm loop | Example 3](#)
