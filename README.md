@@ -15,7 +15,7 @@ Algorithm analysis and its types , with java scripting
 | No. | Questions                                                                                                                                                  |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     | ** Basic Algorithm **  
-|
+
 | 1   |  [what are algorithm analysis?](#what-are-Algorithm-analysis)
 
 | 2   | [what is Relative Analysis?](#what-is-Relative-analysis)
@@ -122,8 +122,8 @@ Developer Sudheer chowdari kodali
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     | **Basic Algorithm**                                                                                                                                        |
 | 1   | [what are algorithm analysis?](#)                                                                                                                          |                                                                      
-| 2   | [what is Relative Analysis?](#)                                                                             |                                                                      
-| 3   | [Some term relates to algorithm analysis](#)                                                                                                                               |                                                                    
+| 2   | [what is Relative Analysis?](#)                                                                             |                                              |                        
+| 3   | [Some term relates to algorithm analysis](#)                                                                                                               |                                                                    
 | 4   | [What is the difference between Element and Component?](#what-is-the-difference-between-element-and-component)                                             |                                                                      
 | 5   | [How to create components in React?](#how-to-create-components-in-react)                                                                                   |                                                                      
 | 6   | [When to use a Class Component over a Function Component?](#when-to-use-a-class-component-over-a-function-component)                                       |                                                                      
@@ -131,7 +131,14 @@ Developer Sudheer chowdari kodali
 | 8   | [What is state in React?](#what-is-state-in-react)                                                                                                         |                                                                      
 | 9   | [What are props in React?](#what-are-props-in-react)                                                                                                       |                                                                     
 | 10  | [What is the difference between state and props?](#what-is-the-difference-between-state-and-props)                                                         |                                                                      
-| 11  | [Why should we not update the state directly?](#why-should-we-not-update-the-state-directly)                                                               |                                                                      
+| 11  | [Why should we not update the state directly?](#why-should-we-not-update-the-state-directly)  ------------------------------------------------------------ |
 | 12  | [What is the purpose of callback function as an argument of setState()?](#what-is-the-purpose-of-callback-function-as-an-argument-of-setstate)             |                                                                     
 | 13  | [What is the difference between HTML and React event handling?](#what-is-the-difference-between-html-and-react-event-handling)                             |                                                                    
-  |
+| 14  | [what is ](#)
+
+
+
+
+
+
+
