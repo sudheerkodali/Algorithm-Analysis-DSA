@@ -27,13 +27,13 @@ Algorithm analysis and its types , with java scripting
 
 | 6   | [Checking if Big-O Notation is Accetable](#Checking-if-Big-O-Notation-is-Accetable)
 
-| 7   | [Time complexity for loop | Example 1 ](#Time-complexity-for-loop | Example-1 )
+| 7   | [Time complexity for loop | Example 1 ](#Time-complexity-for-loop-|-Example-1 )
 
-| 8   | [Time complexity for loop | Example 2 ](#Time complexity for loop | Example-2 )
+| 8   | [Time complexity for loop | Example 2 ](#Time-complexity-for-loop-|-Example-2 )
 
-| 9   | [Time complexity for loop | Example 3 ](#Time complexity for loop | Example-3 )
+| 9   | [Time complexity for loop | Example 3 ](#Time-complexity-for-loop-|-Example-3 )
 
-| 10  | [Time complexity for loop | Example 4 ](#Time complexity for loop | Example-4 )
+| 10  | [Time complexity for loop | Example 4 ](#Time-complexity-for-loop-|-Example-4 )
 
 | 11  | [Myth about TIME Complexity](#Myth-about-TIME-Complexity)
 
