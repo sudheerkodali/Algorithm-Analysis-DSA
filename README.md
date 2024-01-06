@@ -17,8 +17,8 @@ Algorithm analysis and its types , with java scripting
 | No. | Questions                                                                                                                                                              |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     | **Basic Algorithm**                                                                                                                                                    |
-| 1   |  [what are algorithm analysis?](#what-are-Algorithm-analysis)                                                                                                          |
-| 2   | [what is Relative Analysis?](#what-is-Relative-analysis)                                                                                                               |
+| 1   |  [what are algorithm analysis](#what-are-Algorithm-analysis)                                                                                                           |
+| 2   | [what is Relative Analysis](#what-is-Relative-analysis)                                                                                                                |
 | 3   | [Some term relates to algorithm analysis](#Some-term-relate-to-algorithm-analysis)                                                                                     |
 | 4   | [Computing time complexity/simple analysis](#)                                                                                                                         |                                        
 | 5   | [Common Big-O Notation](#Common-Big-O-Notation)                                                                                                                        |
@@ -41,8 +41,8 @@ Algorithm analysis and its types , with java scripting
 | 22  | [Space Complexity Calculation with Simple case](#)                                                                                                                     |
 | 23  | [Recursive Time Complexity/ Example 2](#)                                                                                                                              |
 | 24  | [Recursice Space Complexity / Example 1](#)                                                                                                                            |
-| 25  | [Time Complexity Live Demonastration](#)
-|
+| 25  | [Time Complexity Live Demonastration](#)                                                                                                                               |                                                                                                                             
+
 
 
 
