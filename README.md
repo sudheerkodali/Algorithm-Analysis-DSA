@@ -32,26 +32,17 @@ Algorithm analysis and its types , with java scripting
 | 13  | [Useful identies related to Logs](#Useful-identies-related-to-Logs)                                                                                                    |       
 | 14  | [Logarithm loop / Example 1](#)                                                                                                                                        |
 | 15  | [Logarithm loop / Example 2](#)                                                                                                                                        |
-
-| 16  | [Logarithm loop | Example 3](#)
-
-| 17  | [Nested Independent Loop | Example 1](#)
-
-| 18  | [Nested Independent Loop | Example 2](#)
-
-| 19  | [Nested Dependent Loop | Example 1](#)
-
-| 20  | [Calculating Space Complexity](#)
-
-| 21  | [Calaculating Time Complexity of Recursive Case](#)
-
-| 22  | [Space Complexity Calculation with Simple case](#)
-
-| 23  | [Recursive Time Complexity| Example 2](#)
-
-| 24  | [Recursice Space Complexity | Example 1](#)
-
+| 16  | [Logarithm loop / Example 3](#)                                                                                                                                        |
+| 17  | [Nested Independent Loop / Example 1](#)                                                                                                                               |
+| 18  | [Nested Independent Loop / Example 2](#)                                                                                                                               |
+| 19  | [Nested Dependent Loop / Example 1](#)                                                                                                                                 |
+| 20  | [Calculating Space Complexity](#)                                                                                                                                      |
+| 21  | [Calaculating Time Complexity of Recursive Case](#)                                                                                                                    |
+| 22  | [Space Complexity Calculation with Simple case](#)                                                                                                                     |
+| 23  | [Recursive Time Complexity/ Example 2](#)                                                                                                                              |
+| 24  | [Recursice Space Complexity / Example 1](#)                                                                                                                            |
 | 25  | [Time Complexity Live Demonastration](#)
+|
 
 
 
